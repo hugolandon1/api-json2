@@ -9,60 +9,73 @@
         "slug": 2,
         "title":"esto2",
         "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
-        "image": "https://iili.io/dEvZHPa.png"
+        "image": "https://iili.io/dEvZdKJ.png"
     },
     {
         "slug": 3,
         "title":"esto3",
         "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
-        "image": "https://iili.io/dEvZHPa.png"
+        "image": "https://iili.io/dEvZ2cv.png"
     },
     {
         "slug": 4,
         "title":"esto4",
         "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
-        "image": "https://iili.io/dEvZHPa.png"
+        "image": "https://iili.io/dEvZ3SR.png"
     },
     {
         "slug": 5,
         "title":"esto5",
         "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
-        "image": "https://iili.io/dEvZHPa.png"
+        "image": "https://iili.io/dEvZBtt.png"
     },
     {
         "slug": 6,
         "title":"esto6",
         "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
-        "image": "https://iili.io/dEvZHPa.png"
+        "image": "https://iili.io/dEvZoVn.png"
     },
     {
         "slug": 7,
         "title":"esto7",
         "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
-        "image": "https://iili.io/dEvZHPa.png"
+        "image": "https://iili.io/dEvZxPs.png"
     },
     {
         "slug": 8,
         "title":"esto8",
         "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
-        "image": "https://iili.io/dEvZHPa.png"
+        "image": "https://iili.io/dEvZIKG.png"
     },
     {
         "slug": 9,
         "title":"est9",
         "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
-        "image": "https://iili.io/dEvZHPa.png"
+        "image": "https://iili.io/dEvZuS4.png"
     },
     {
         "slug": 10,
         "title":"esto10",
         "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
-        "image": "https://iili.io/dEvZHPa.png"
+        "image": "https://iili.io/dEvZRHl.png"
     },
     {
         "slug": 11,
         "title":"esto11",
         "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
-        "image": "https://iili.io/dEvZHPa.png"
+        "image": "https://iili.io/dEvZ5R2.png"
+    },
+    {
+        "slug": 12,
+        "title":"esto12",
+        "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
+        "image": "https://iili.io/dEvZ7NS.png"
+    },
+    {
+        "slug": 13,
+        "title":"esto13",
+        "description":"Vamos a crear un componente de infinite scroll utilizando Next.js 14, donde cada página será representada por un archivo",
+        "image": "https://iili.io/dEvZcx9.png"
     }
+
 ]
